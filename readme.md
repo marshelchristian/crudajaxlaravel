@@ -71,8 +71,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravelcrudajax
+
 ......
-first commit crud ajax with basic table
-second commit crud ajax with datatable yajra
+First commit crud ajax with basic table,
+
+Second commit crud ajax with datatable yajra
 ......
+
 # crudajaxlaravel
